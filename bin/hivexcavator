@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+# Internal
+require 'hivexcavator'
+require 'hivexcavator/cli'
+
+HivExcavator::CLI
