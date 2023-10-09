@@ -7,13 +7,13 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/acceis/hivexcavator)
 
-![](https://acceis.github.io/hivexcavator/docs/logo-hivexcavator.png)
+![](https://acceis.github.io/hivexcavator/logo-hivexcavator.png)
 
 > Extracting the contents of Microsoft Windows Registry (hive) and display it as a colorful tree but mainly focused on parsing BCD files to extract WIM files path for PXE attacks.
 
 ## What is it?
 
-![](https://acceis.github.io/hivexcavator/docs/SeqDiag.svg)
+![](https://acceis.github.io/hivexcavator/SeqDiag.svg)
 
 _Microsoft Deployment Toolkit_ (MDT) (integrated in _System Center Configuration Manager_ (SCCM)) helps to automate the deployment of Windows and to manage OS images.
 
@@ -65,13 +65,13 @@ $ gem install hivexcavator
 
 Example: `hivexcavator ~/test/pxe/conf.bcd`
 
-![](https://acceis.github.io/hivexcavator/docs/hive-tree.png)
+![](https://acceis.github.io/hivexcavator/hive-tree.png)
 
 ## Documentation
 
 - [Homepage](https://acceis.github.io/hivexcavator)
-- [CHANGELOG](https://acceis.github.io/hivexcavator/docs/CHANGELOG)
-- [About](https://acceis.github.io/hivexcavator/docs/about)
+- [CHANGELOG](https://acceis.github.io/hivexcavator/CHANGELOG)
+- [About](https://acceis.github.io/hivexcavator/about)
 
 ## Author
 
