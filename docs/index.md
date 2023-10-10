@@ -58,7 +58,7 @@ $ gem install hivexcavator
 ```
 
 [![Packaging status](https://repology.org/badge/vertical-allrepos/hivexcavator.svg)](https://repology.org/project/hivexcavator/versions)
-[![Gem Version](https://badge.fury.io/rb/hivexcavator-hash.svg)](https://badge.fury.io/rb/hivexcavator-hash)
+[![Gem Version](https://badge.fury.io/rb/hivexcavator.svg)](https://badge.fury.io/rb/hivexcavator)
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/acceis/hivexcavator)
 
 ## Example
