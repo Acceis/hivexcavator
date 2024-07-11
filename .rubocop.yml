@@ -13,3 +13,5 @@ Metrics/ClassLength:
   Max: 200
 Metrics/MethodLength:
   Max: 20
+Gemspec/AddRuntimeDependency:
+  Enabled: false # https://github.com/rubocop/rubocop/pull/13030#discussion_r1674791776
